@@ -1,0 +1,3 @@
+/Users/kirtipatel/RayTracer/RayTracer/src/CMakeFiles/inOneWeekend.dir
+/Users/kirtipatel/RayTracer/RayTracer/src/CMakeFiles/edit_cache.dir
+/Users/kirtipatel/RayTracer/RayTracer/src/CMakeFiles/rebuild_cache.dir
